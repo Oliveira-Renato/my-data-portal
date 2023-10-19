@@ -8,6 +8,7 @@ import { Mermaid } from '@portaljs/core';
 // here.
 const components = {
   Table: dynamic(() => import('@portaljs/components').then(mod => mod.Table)),
+  BackButton: dynamic(() => import('./BackButton')),
   Catalog: dynamic(() => import('@portaljs/components').then(mod => mod.Catalog)),
   mermaid: Mermaid,
   Vega: dynamic(() => import('@portaljs/components').then(mod => mod.Vega)),

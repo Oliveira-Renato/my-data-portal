@@ -4,11 +4,11 @@
 @import "@portaljs/remark-callouts/styles.css";
 
 .w-5 {
-  width: 1.25rem
+  width: 1.25rem;
 }
 
 .h-5 {
-  height: 1.25rem
+  height: 1.25rem;
 }
 
 /* mathjax */
@@ -60,7 +60,7 @@ html {
 .light .heading-link {
   /* border: 1px solid #ab2b65; */
   /* background: none; */
-  background: #e2e8f0;
+  /* background: #e2e8f0; */
 }
 
 :is(h2, h3, h4, h5, h6):not(.blogitem-title):hover .heading-link {
