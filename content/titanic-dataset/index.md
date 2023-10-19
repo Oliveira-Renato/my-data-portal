@@ -5,6 +5,6 @@ group: "Disaster"
 
 <BackButton />
 
-## Table
+## Flat Table
 
-<Table url="data.csv" />
+<FlatUiTable url="data.csv" />
