@@ -1,5 +1,5 @@
 ---
-title: "Spotfy Songs Dataset"
+title: "Spotify Songs Dataset"
 group: "Music"
 ---
 
